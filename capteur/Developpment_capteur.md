@@ -1,8 +1,9 @@
 # Page dédier au développement du capteur et de ces composants
 
+EN COURS !
+
 ### SD Card Pin Diagram
 
-![](http://i.imgur.com/G78juSt.png)
 
 ### Pin Connection Table to SD Module
 
