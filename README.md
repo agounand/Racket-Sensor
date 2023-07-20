@@ -1,5 +1,6 @@
 # Racket-Sensor
-Projet ingénieur essai- Capteur pour raquette de squash et analyse des données. Améliorez votre jeu avec la data. Contribuez et révolutionnez le monde du squash ! 🎾📊
+Projet ingénieur essai- Capteur pour raquette de squash et analyse des données. Améliorez votre jeu avec la data. 🎾📊
+
 Ce repository contient un projet passionnant visant à développer un capteur fixé sur une raquette de squash. L'objectif principal est de monter en compétence dans les essais de produits sportifs en acquérant des connaissances pratiques en capteurs, électronique, microcontrôleurs et traitement de données.
 
 <img src="https://centralclub.fr/wp-content/uploads/2022/09/image10.jpg" height="200px"></a>
