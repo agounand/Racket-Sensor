@@ -27,6 +27,7 @@ Ce projet vise à concevoir un capteur intégré à ma raquette de squash pour a
 **/impression_3d** : fichiers 3d, fichier stl pour l'impression 3d ...
 
 ## Phase 01 : [Developpement du capteur](capteur/Developpment_capteur.md)
+<img src="images/schema_v4.jpg" height="200px"></a>
 <img src="images/montage_1.JPEG" height="200px"></a>
 
 <img src="images/ass_2.JPEG" height="200px"></a>
@@ -34,7 +35,13 @@ Ce projet vise à concevoir un capteur intégré à ma raquette de squash pour a
 <img src="images/sensorv1.JPEG" height="200px"></a>
 
 
-## Phase 02 : [Premiers traitements des données](analyse_donnees/analyse_traitement_data.md)
+## Phase 02 : [Conception de pièces 3d](impression_3d/notes.md)
+<img src="images/explosion_3d_boitier_v1.png" height="200px"></a>
+<img src="images/explosion_3d_sensor_v1.png" height="200px"></a>
+
+<img src="images/explosion_3d_boitier_v1.gif" height="200px"></a>
+
+## Phase 03 : [Premiers traitements des données](analyse_donnees/analyse_traitement_data.md)
 
 ## Phase d'essais 01 : en cours ...
 
