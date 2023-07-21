@@ -43,9 +43,34 @@ Ce projet vise à concevoir un capteur intégré à ma raquette de squash pour a
 
 ## Phase 03 : [Premiers traitements des données](analyse_donnees/analyse_traitement_data.md)
 
+- premiers fichier enregistrés
+
+```
+time [ms], AccX [g], AccY [g], AccZ [g], GyroX [deg/s], GyroY [deg/s], GyroZ [deg/s]
+118838,1.06,-0.02,-0.05,0.12,-0.18,0.03
+118841,1.22,-0.02,-0.08,-35.33,33.98,-101.46
+118844,1.23,-0.02,-0.08,-36.66,43.53,-110.74
+118847,1.23,-0.01,-0.09,-36.05,51.31,-119.38
+118850,1.24,-0.00,-0.08,-34.96,58.30,-127.82
+118854,1.24,-0.01,-0.07,-33.12,64.99,-138.83
+118857,1.23,0.00,-0.04,-30.73,69.04,-151.81
+118860,1.25,0.01,-0.06,-28.89,72.75,-161.91
+118863,1.24,0.02,-0.08,-28.11,78.59,-171.36
+118866,1.24,0.04,-0.08,-27.71,84.85,-176.62
+118870,1.24,0.07,-0.05,-28.80,91.13,-178.57
+```
+
 ## Phase d'essais 01 : en cours ...
 
 ## Phase 01.1
+
+Autres inspirations : 
+
+https://github.com/hongyang-zhao/TennisEye/tree/master
+
+https://github.com/alvarowolfx/tinyml-smart-tennis-sensor
+
+
 IDEES :
 - passer par le bluetooth pour save les data
 - mignaturisation du controleur :
