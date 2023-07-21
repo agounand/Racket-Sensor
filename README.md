@@ -45,3 +45,16 @@ Ce projet vise à concevoir un capteur intégré à ma raquette de squash pour a
 
 ## Phase d'essais 01 : en cours ...
 
+## Phase 01.1
+IDEES :
+- passer par le bluetooth pour save les data
+- mignaturisation du controleur :
+  - arduino nana esp32
+  - seeed studio 
+- mignaturisation de la batterie
+- conception et commande d'une PCB
+- integrer le tout au niveau de la mesure
+
+- ajouter la mesure du magnetometre pour affiner et augmenter la précision du capteur -> MPU9250
+- avec ces 9 composantes il est possible de remonter a la position relative en intégrant 2x
+  
